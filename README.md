@@ -6,9 +6,9 @@ An exercise with MIT xPro that tracks the real time locations of Boston's buses 
 
 ## How To Run
 
-After cloning this repo, add your Google Maps API Key to the index.html file and load in a browser window to check the current location of Boston's buses. 
+After cloning this repo, add your Google Maps API Key to the index.html file and your MBTA API key to the mapanimation.js file, load the index.html file in a browser window to check the current location of Boston's buses. 
 
-## Future Roadmap
+## Roadmap of Future Improvements  
 
 I would like to have this generate a map with real time MTA data for the NYC subway and buses. And have the data update truly live rather than every 15 seconds. 
 
