@@ -6,7 +6,8 @@ An exercise with MIT xPro that tracks the real time locations of Boston's buses 
 
 ## How To Run
 
-After cloning this repo, add your Google Maps API Key to the index.html file and your MBTA API key to the mapanimation.js file, load the index.html file in a browser window to check the current location of Boston's buses. 
+After cloning this repo, add your Google Maps API Key to the index.html file and your MBTA API key to the mapanimation.js file. 
+Load the index.html file in a browser window to check the current location of Boston's buses. 
 
 ## Roadmap of Future Improvements  
 
